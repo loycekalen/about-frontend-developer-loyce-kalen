@@ -118,4 +118,7 @@ p {
   .email-link {
     font-size: 22px;
   }
+  .yogurt-heading {
+    margin-top: 0;
+  }
 }
