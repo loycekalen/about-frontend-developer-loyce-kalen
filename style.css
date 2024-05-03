@@ -100,16 +100,13 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 40px;
+    font-size: 42px;
   }
   h2 {
-    font-size: 30px;
+    font-size: 35px;
   }
   .project-photo {
     display: none;
-  }
-  h3 {
-    font-size: 18px;
   }
   .btn {
     width: 90%;
