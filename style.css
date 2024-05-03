@@ -100,20 +100,23 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 45px;
+    font-size: 40px;
   }
   h2 {
-    font-size: 35px;
+    font-size: 30px;
   }
   .project-photo {
     display: none;
+  }
+  h3 {
+    font-size: 18px;
   }
   .btn {
     width: 90%;
     margin-left: 20px;
   }
   .contact-me {
-    font-size: 30px;
+    font-size: 28px;
   }
   .email-link {
     font-size: 22px;
