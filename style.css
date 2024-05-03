@@ -88,3 +88,34 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.btn {
+  background: var(--primary-color);
+  color: #fff;
+}
+.btn:hover {
+  background: var(--primary-color);
+  color: #fff;
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 45px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  .project-photo {
+    display: none;
+  }
+  .btn {
+    width: 90%;
+    margin-left: 20px;
+  }
+  .contact-me {
+    font-size: 30px;
+  }
+  .email-link {
+    font-size: 22px;
+  }
+}
